@@ -1,0 +1,14 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+
+assets/
+
+# ignore the model registry

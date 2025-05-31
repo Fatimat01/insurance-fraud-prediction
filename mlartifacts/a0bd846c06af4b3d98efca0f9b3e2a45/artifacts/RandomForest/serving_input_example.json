@@ -1,0 +1,62 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "months_as_customer",
+      "age",
+      "policy_deductable",
+      "umbrella_limit",
+      "insured_sex",
+      "insured_education_level",
+      "insured_occupation",
+      "insured_hobbies",
+      "insured_relationship",
+      "incident_type",
+      "collision_type",
+      "incident_severity",
+      "authorities_contacted",
+      "number_of_vehicles_involved",
+      "property_damage",
+      "bodily_injuries",
+      "witnesses",
+      "police_report_available",
+      "total_claim_amount",
+      "injury_claim",
+      "property_claim",
+      "vehicle_claim",
+      "auto_make",
+      "auto_year",
+      "incident_hour_bin",
+      "claim_ratio"
+    ],
+    "data": [
+      [
+        2.060273406102716,
+        1.7570599876041597,
+        -1.0399656435679563,
+        1.2624890127883643,
+        1.0769527444706635,
+        -1.0094876803602142,
+        -1.4072559375546423,
+        -0.3052257923408194,
+        -1.4379566661818561,
+        -0.1591218059552074,
+        -0.030233131783818812,
+        -0.19590615491350014,
+        1.6702526078062843,
+        -0.8238649762007128,
+        -0.6577725719783332,
+        -1.2101737191482849,
+        -1.3386995878348875,
+        -0.6765544675204398,
+        -1.7569107837840998,
+        -1.3925192183590926,
+        -1.4017276984644886,
+        -1.7380560863102466,
+        -0.13538810472195734,
+        -0.5160612504077055,
+        1.2489100122535037,
+        -0.2988826963113936
+      ]
+    ]
+  }
+}

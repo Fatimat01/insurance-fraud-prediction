@@ -1,1 +1,1 @@
-# insurance-fraud-prediction
+# Predicting Fraudulent Insurance Claims Using Machine Learning 

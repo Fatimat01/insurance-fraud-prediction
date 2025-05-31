@@ -1,0 +1,15 @@
+artifact_uri: /Users/fatimatatanda/Library/CloudStorage/OneDrive-Personal/CLOUD/AI/projects/insurance-fraud-prediction/mlartifacts/f588c848fed345e3a89ebc1de24a5e7b/artifacts
+end_time: 1748679313214
+entry_point_name: ''
+experiment_id: '147046143188902615'
+lifecycle_stage: active
+run_id: f588c848fed345e3a89ebc1de24a5e7b
+run_name: RandomForest
+run_uuid: f588c848fed345e3a89ebc1de24a5e7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748679311047
+status: 3
+tags: []
+user_id: fatimatatanda

@@ -1,0 +1,15 @@
+artifact_uri: /Users/fatimatatanda/Library/CloudStorage/OneDrive-Personal/CLOUD/AI/projects/insurance-fraud-prediction/mlartifacts/2d56accef036474ba193e95818c54710/artifacts
+end_time: 1748679270147
+entry_point_name: ''
+experiment_id: '147046143188902615'
+lifecycle_stage: active
+run_id: 2d56accef036474ba193e95818c54710
+run_name: LogisticRegression
+run_uuid: 2d56accef036474ba193e95818c54710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748679268165
+status: 3
+tags: []
+user_id: fatimatatanda

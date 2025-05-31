@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748679643685
+current_stage: None
+description: ''
+last_updated_timestamp: 1748679643685
+name: AutoInsuranceFraudModel
+run_id: f3bda67dcf564c759636c5f5096361eb
+run_link: ''
+source: /Users/fatimatatanda/Library/CloudStorage/OneDrive-Personal/CLOUD/AI/projects/insurance-fraud-prediction/mlartifacts/f3bda67dcf564c759636c5f5096361eb/artifacts/XGBoost
+status: READY
+status_message: null
+storage_location: /Users/fatimatatanda/Library/CloudStorage/OneDrive-Personal/CLOUD/AI/projects/insurance-fraud-prediction/mlartifacts/f3bda67dcf564c759636c5f5096361eb/artifacts/XGBoost
+user_id: null
+version: 1
