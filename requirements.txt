@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+mlflow
+imblearn
+python-dotenv
+shapely
+scipy
+ydata-sdk
