@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/fatimatatanda/Library/CloudStorage/OneDrive-Personal/CLOUD/AI/projects/insurance-fraud-prediction/notebooks/mlruns/0/774e617b03e44401863f5f81cc5adb61/artifacts
+end_time: 1748655261702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 774e617b03e44401863f5f81cc5adb61
+run_name: DecisionTree
+run_uuid: 774e617b03e44401863f5f81cc5adb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748655260100
+status: 3
+tags: []
+user_id: fatimatatanda
